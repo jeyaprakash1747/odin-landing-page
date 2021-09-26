@@ -1,0 +1,186 @@
+.Dogecoin {
+background-color:#1F2937;
+display: flex;
+flex-direction:column;
+padding:0px;
+margin:0px;
+text-align:center;
+}
+
+#header {
+  display: flex;
+color: #F9F8FA;
+font-size:24px;
+font-style:bold;
+  width:160px;
+  height:auto
+}
+
+.upper-part{
+display:flex;
+align-items:center;
+padding:20px 0px 20px 100px;
+}
+
+.navigation{
+display:flex;
+margin-left:auto;
+padding:0px 100px 0px 0px;
+}
+#about1{
+color:white;
+display:flex;
+margin:0px 20px 0px 0px ;
+}
+#info1{
+color:white;
+}
+#quotes1{
+color:white;
+display:flex;
+margin:0px 20px 0px 20px;
+}
+
+
+
+.About{
+display:flex;
+margin:30px;
+}
+
+#dogecoin-img{
+display:flex;
+margin:50px;
+}
+
+#para{
+display:flex;
+flex-direction:column;
+}
+
+
+h2{
+color:#F9FAF8;
+font-size: 48px;
+font-style: extra-bold;
+margin-top:120px;
+}
+
+#para1{
+font-size:18px;
+color:#E5E7EB;
+margin:0px 30px 30px 30px;
+}
+
+#sign-up{
+background-color: #3882F6;
+color:white;
+margin-left: 350px;
+width:20%;
+
+}
+
+#dogecoin-img{
+width:500px;
+height:350px;
+}
+
+
+
+
+.info{
+display:flex;
+height:600px;
+width:auto;
+background-color: white;
+text-align:center;
+flex-direction: column;
+}
+.images{
+display:flex;
+flex-direction:row;
+justify-content:space-between;
+}
+
+#dogecoin-img1{
+width:250px;
+height:250px;
+margin-left:150px;
+}
+
+#dogecoin-img2{
+width:250px;
+height:250px;
+}
+
+#dogecoin-img3{
+width:250px;
+height:250px;
+margin-right:150px;
+}
+
+h3{
+color: black;
+font-size:36px;
+font-style:bold;
+}
+
+.box-texts
+{
+display:flex;
+flex-direction:row;
+justify-content:space-between;
+
+}
+
+#box1{
+display:flex;
+margin-left:200px;
+font-style:italic;
+font-size:20px;
+}
+
+#box2{
+display:flex;
+font-style:italic;
+font-size:20px;
+}
+
+#box3{
+display:flex;
+margin-left:-20px;
+margin-right:180px;
+}
+
+
+.Quotes
+{display:flex;
+flex-direction:column;
+font-size:36px;
+font-style:light italic;
+color:#1F2937;
+background-color:#E5E7EB;
+}
+#by{
+display:flex;
+flex-direction:row;
+justify-content:flex-end;
+margin-bottom:10px;
+font-style:italic;
+}
+.signing-up{
+background-color:white;
+
+}
+#sign-up2
+{
+color:white;
+background-color:blue;
+margin-top:10px;
+}
+footer{
+color:white;
+height:50px;
+width:auto;
+padding-top:20px;
+}
